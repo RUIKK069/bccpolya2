@@ -6,7 +6,7 @@ float X;
 
 printf("Determine um numero para extrair a raiz quadrada:   ");
  scanf("%f", &X);
-printf("X= %f",X);
+// printf("X= %f",X);
 Y=2.00;
 raiz=0.00;
 raizint=0.00;
