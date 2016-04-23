@@ -1,9 +1,11 @@
 #include<stdio.h>
 int main(void)
 {
-double X,raiz,raizdec,Y,Z,n,raizint,AUX;
+double raiz,raizdec,Y,Z,n,raizint,AUX;
+float X;
 
-// scanf("%f", &X);
+printf("Determine um numero para extrair a raiz quadrada:   ");
+ scanf("%f", &X);
 printf("X= %f",X);
 Y=2.00;
 raiz=0.00;
