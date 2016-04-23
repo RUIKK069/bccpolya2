@@ -12,7 +12,6 @@ raiz=0.00;
 raizint=0.00;
 raizdec=0.00;
 n=0.00;
-X=3.00;
 
 while (n<=X) {
     // printf("n= %f X= %f\n",n,X);
